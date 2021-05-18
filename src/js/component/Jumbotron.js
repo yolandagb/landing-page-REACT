@@ -8,7 +8,7 @@ export function Jumbotron(props) {
 			<p className="lead">{props.text}</p>
 			<a
 				href="buttonCard"
-				className="btn btn-primary"
+				className="btn btn-dark"
 				rel="noopener noreferrer">
 				{props.botton}
 			</a>
