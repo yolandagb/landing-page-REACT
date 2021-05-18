@@ -5,7 +5,7 @@ export function Navbar(props) {
 	return (
 		<nav className="navbar navbar-expand-sm bg-dark navbar-dark">
 			<a className="navbar-brand" href="#">
-				StartBoostrap
+				Reading Blog
 			</a>
 			<ul className="navbar-nav ml-auto">
 				<li className="nav-item">
@@ -15,17 +15,17 @@ export function Navbar(props) {
 				</li>
 				<li className="nav-item">
 					<a className="nav-link" href="#services">
-						About
+						About Us
 					</a>
 				</li>
 				<li className="nav-item">
 					<a className="nav-link" href="#portfolio">
-						Services
+						Forum
 					</a>
 				</li>
 				<li className="nav-item">
 					<a className="nav-link" href="#contact">
-						Contact
+						Contact us
 					</a>
 				</li>
 			</ul>
