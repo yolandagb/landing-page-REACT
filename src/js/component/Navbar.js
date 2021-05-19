@@ -15,12 +15,12 @@ export function Navbar(props) {
 				</li>
 				<li className="nav-item">
 					<a className="nav-link" href="#services">
-						About Us
+						About our project
 					</a>
 				</li>
 				<li className="nav-item">
 					<a className="nav-link" href="#portfolio">
-						Forum
+						Share your perspective
 					</a>
 				</li>
 				<li className="nav-item">
