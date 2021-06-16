@@ -31,7 +31,7 @@ export function Home() {
 						title="Leigh Bardugo and Shadow & Bone"
 						text="Leigh Bardugo is the author of the Grishaverse  which spans the Shadow and Bone, the Six of Crows, The Language of Thorns, and King of Scars. Her other works include Wonder Woman: Warbringer and Ninth House."
 						botton="Find Out More!"
-						urlImg="https://hachette.imgix.net/books/9781510108899.jpg?auto=compress,format"
+						urlImg="https://th.bing.com/th/id/OIP.Rk2gdLoFnhLfY3UAUpARDgAAAA?pid=ImgDet&rs=1"
 					/>
 					<Card
 						title="Iria G. Parente & Selene M. Pascual"
